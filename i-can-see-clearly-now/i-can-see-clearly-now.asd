@@ -25,8 +25,7 @@
       <o rot="closed" />
     </transform>
     <seq>
-      <!-- TODO: use more specific element, e.g. <pause dur="...">? -->
-      <transform apply-to="chords" dur="47.2" />
+      <wait dur="47.2" />
 
       <transform apply-to="chords" dur="3" pos="-2 2" />
       <transform apply-to="chords" dur="2" pos="2 2" />
