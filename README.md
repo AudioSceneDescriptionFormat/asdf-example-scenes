@@ -1,13 +1,5 @@
-Spatial audio scenes played by melodica
-=======================================
-
-"I Can See Clearly Now", composed by Johnny Nash, 1971.
-
-Played and recorded by Matthias Geier, 2011.
-
-Spatial audio scene created by Matthias Geier, 2020.
-
-License
--------
+Spatial Audio Scenes in the Audio Scene Description Format (ASDF)
+=================================================================
 
 All content has been dedicated to the public domain, see ``LICENSE``.
+The copyright of the original compositions remains with the composers.
